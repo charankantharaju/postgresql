@@ -1,1 +1,4 @@
 # postgresql
+
+CRUD 
+CREATE, READ, UPDATE, DELETE 
